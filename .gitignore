@@ -1,0 +1,4 @@
+tcp-venv/
+__pycache__/
+.azure/
+.vscode/
